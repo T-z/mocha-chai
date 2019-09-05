@@ -1,2 +1,2 @@
-# mocha-chai
-backstore api + unit testing (mocha &amp; chai assertions)
+# bookstore
+Source code for my Tutorial "Test a Node RESTful API with Mocha and Chai"
